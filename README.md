@@ -9,7 +9,9 @@ step by step, day by day.
 
 ## how
 就我个人而言，画了一个粗略的知识架构图，很多地方暂时是不够全面的，一部分原因是自己只是想放上自己暂时想深入的，比如在后端语言部分，只是简单的几种语言（php, java, go), 其他语言暂时没有很强烈的兴趣想去深入，现在`臣妾做不到啊`，但说不定以后会加上去。另一部分原因是东西太多，写不下啊（`假的了`), 实际上是不知道啊，😄不过到时整理知识时候，涉及到相关产品会尽量全面的介绍的啦。
-(Knowledge ecological chain)[http://naotu.baidu.com/file/9f8bad0427d89e9d6c09c01cf74fed4b?token=bba0bc29635989a9]
+
+![Knowledge ecological chain](http://naotu.baidu.com/file/9f8bad0427d89e9d6c09c01cf74fed4b?token=bba0bc29635989a9)
 
 下面是我用来track知识体系所用的一些工具，贴出来放在这里吧，后面一点点完善。
-(知识track)[http://naotu.baidu.com/file/05df69c83132adf81140da0d7ac789e9?token=f7857dcd92ca9347]
+![知识track](http://naotu.baidu.com/file/05df69c83132adf81140da0d7ac789e9?token=f7857dcd92ca9347)
+
