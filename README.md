@@ -15,3 +15,6 @@ step by step, day by day.
 下面是我用来track知识体系所用的一些工具，贴出来放在这里吧，后面一点点完善。
 ![知识track](https://github.com/caijinhai/precipitate-pool/blob/master/images/知识track.png)
 
+
+![Devops + SRE](https://github.com/caijinhai/precipitate-pool/blob/master/images/Devops_SRE.png)
+
